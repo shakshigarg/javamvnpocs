@@ -1,0 +1,8 @@
+
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¥™™»8•û½¨û1
+‹
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(âßƒùÿÿÿÿ
+
+java:S1319"fThe type of "videos" should be an interface such as "List" rather than the implementation "ArrayList".(ø‰ıÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(íƒŸ
